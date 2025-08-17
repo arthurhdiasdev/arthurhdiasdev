@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo Arthur Dias e sou estudante de Informática Biomédica na UFCSPA. Durante o ensino médio, participei de programas voltados para a área de tecnologia, como o dev the devs (Develop the Developers), realizado pela PUC-RS, onde tive meu primeiro contato com desenvolvimento e linguagem de programação Java. Também integrei o programa Nova Geração, oferecido pelo Instituto Caldeira, onde expandi meus conhecimentos em programação, estudando desenvolvimento web e me conectando com ecossistemas de inovação.</p>
+<p align="left">Olá! Me chamo Arthur Dias e sou estudante de Informática Biomédica na UFCSPA. Durante o ensino médio, participei de programas voltados para a área de tecnologia, como o dev the devs (Develop the Developers), realizado pela PUC-RS, onde tive meu primeiro contato com desenvolvimento e linguagem de programação Java. Também integrei o programa Nova Geração, oferecido pelo Instituto Caldeira, onde expandi meus conhecimentos em programação, estudando desenvolvimento web e me conectando com ecossistemas de inovação, atualmente estou estudando para me inserir na area de dados.</p>
 
 ###
 
