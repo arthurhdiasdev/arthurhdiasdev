@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧬 Estudando Informática Biomédica <br><br>Buscando me desenvolver na área de dados</p>
+<p align="left">🧬 Estudando Informática Biomédica </p>
 
 ###
 
