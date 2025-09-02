@@ -1,4 +1,4 @@
-<h1 align="left">Seja Bem vindo!</h1>
+<h1 align="center">Seja Bem vindo!</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧬 Estudando Informática Biomédica </p>
+<p align="center"> Graduando em Informática Biomédica na UFCSPA</p> <img src="https://www.flaticon.com/br/icone-gratis/dna_2925900" />
 
 ###
 
