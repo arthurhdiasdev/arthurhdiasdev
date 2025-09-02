@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center"> Graduando em Informática Biomédica na UFCSPA</p> <img src="https://www.flaticon.com/br/icone-gratis/dna_2925900" />
+<p align="center"> Graduando em Informática Biomédica na UFCSPA</p>
 
 ###
 
