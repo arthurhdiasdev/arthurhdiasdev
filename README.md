@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Me chamo Arthur Henrique Dias e sou estudante de Informática Biomédica na UFCSPA. Possuo interesse por desenvolvimento de Software, Ciência de dados e Bioinformática.</p>
+<p align="left">Olá! Me chamo Arthur Henrique Dias e sou estudante de Informática Biomédica na UFCSPA. Possuo interesse por desenvolvimento de Software, Ciência de dados, Inteligencia Artificial e Bioinformática.</p>
 
 ###
 
