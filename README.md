@@ -12,16 +12,6 @@
 
 <br/>
 
-## 🎓 Sobre mim
-
-- 🏫 Graduando em **Informática Biomédica** na UFCSPA
-- 💻 Desenvolvedor em formação com foco em soluções tecnológicas para a área da saúde
-- 📊 Explorando o universo dos dados e suas aplicações biomédicas
-- 🧬 Interessado em integrar tecnologia e medicina através da bioinformática
-- 🚀 Sempre em busca de novos desafios e aprendizados
-
-<br/>
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
