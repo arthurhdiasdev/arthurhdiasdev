@@ -1,42 +1,74 @@
-<h1 align="center">Seja Bem vindo!</h1>
-
-###
-
-<p align="center">Olá! Me chamo Arthur Henrique Dias e sou estudante de Informática Biomédica na UFCSPA. Possuo interesse por desenvolvimento de Software, Ciência de dados, Inteligencia Artificial e Bioinformática.</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="center"> Graduando em Informática Biomédica na UFCSPA</p>
-
-###
-
-<h2 align="left">Habilidades</h2>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Olá!+Seja+bem-vindo+ao+meu+perfil!+👋" alt="Typing SVG" />
 </div>
 
-###
+<h1 align="center">Arthur Henrique Dias</h1>
+
+<p align="center">
+  Estudante de <strong>Informática Biomédica</strong> na UFCSPA apaixonado por tecnologia e inovação na área da saúde.
+  <br/>
+  Interesse em <strong>Desenvolvimento de Software</strong>, <strong>Ciência de Dados</strong>, <strong>Inteligência Artificial</strong> e <strong>Bioinformática</strong>.
+</p>
+
+<br/>
+
+## 🎓 Sobre mim
+
+- 🏫 Graduando em **Informática Biomédica** na UFCSPA
+- 💻 Desenvolvedor em formação com foco em soluções tecnológicas para a área da saúde
+- 📊 Explorando o universo dos dados e suas aplicações biomédicas
+- 🧬 Interessado em integrar tecnologia e medicina através da bioinformática
+- 🚀 Sempre em busca de novos desafios e aprendizados
+
+<br/>
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurhdiasdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurhdiasdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" title="Python" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" title="JavaScript" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" title="Java" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" title="HTML5" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" title="CSS3" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" title="MySQL" />
 </div>
 
-###
+<br/>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurhdiasdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurhdiasdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="165" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurhdiasdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+## 📫 Contato
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin-aqui)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurhdiasdev)
+  
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arthurhdiasdev&color=6AD3F7&style=flat-square&label=Visitantes" alt="Profile views" />
+</div>
+
+<div align="center">
+  <i>💡 "A tecnologia é melhor quando aproxima as pessoas" - Matt Mullenweg</i>
+</div>
