@@ -30,19 +30,6 @@
 
 <br/>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurhdiasdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurhdiasdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="165" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurhdiasdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
 ## 📫 Contato
 
 <div align="center">
