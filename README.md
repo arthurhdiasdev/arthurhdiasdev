@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Olá!+Seja+bem-vindo+ao+meu+perfil!+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Olá!+Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Arthur Henrique Dias</h1>
 
 <p align="center">
-  Estudante de <strong>Informática Biomédica</strong> na UFCSPA apaixonado por tecnologia e inovação na área da saúde.
+  Estudante de <strong>Informática Biomédica</strong> na UFCSPA apaixonado por tecnologia e inovação.
   <br/>
   Interesse em <strong>Desenvolvimento de Software</strong>, <strong>Ciência de Dados</strong>, <strong>Inteligência Artificial</strong> e <strong>Bioinformática</strong>.
 </p>
